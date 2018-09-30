@@ -2,7 +2,7 @@ package com.sales.message.processing.processor;
 
 import java.util.Map;
 
-import com.sales.message.processing.ap.MessageWriter;
+import com.sales.message.processing.api.MessageWriter;
 import com.sales.message.processing.constant.SalesProcessingConstants;
 import com.sales.message.processing.model.report.Report;
 import com.sales.message.processing.model.report.ReportAfter10Msgs;

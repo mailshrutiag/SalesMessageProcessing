@@ -5,9 +5,9 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.sales.message.processing.ap.MessageReader;
-import com.sales.message.processing.ap.MessageWriter;
-import com.sales.message.processing.ap.reader.impl.TextFileMsgReader;
+import com.sales.message.processing.api.MessageReader;
+import com.sales.message.processing.api.MessageWriter;
+import com.sales.message.processing.api.reader.impl.TextFileMsgReader;
 import com.sales.message.processing.constant.SalesProcessingConstants;
 import com.sales.message.processing.model.message.Message;
 import com.sales.message.processing.model.message.MessageTypeOne;

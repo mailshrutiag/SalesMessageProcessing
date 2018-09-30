@@ -1,10 +1,10 @@
 package com.sales.message.processing.manager;
 
-import com.sales.message.processing.ap.MessageReader;
-import com.sales.message.processing.ap.MessageWriter;
-import com.sales.message.processing.ap.reader.impl.ConsoleMsgReader;
-import com.sales.message.processing.ap.reader.impl.TextFileMsgReader;
-import com.sales.message.processing.ap.writer.impl.MsgWriter;
+import com.sales.message.processing.api.MessageReader;
+import com.sales.message.processing.api.MessageWriter;
+import com.sales.message.processing.api.reader.impl.ConsoleMsgReader;
+import com.sales.message.processing.api.reader.impl.TextFileMsgReader;
+import com.sales.message.processing.api.writer.impl.MsgWriter;
 import com.sales.message.processing.processor.MessageProcessor;
 import com.sales.message.processing.processor.ReportProcessor;
 

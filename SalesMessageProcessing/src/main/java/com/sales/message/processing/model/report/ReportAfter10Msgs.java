@@ -3,7 +3,7 @@ package com.sales.message.processing.model.report;
 import java.util.Map;
 import java.util.Map.Entry;
 
-import com.sales.message.processing.ap.MessageWriter;
+import com.sales.message.processing.api.MessageWriter;
 import com.sales.message.processing.model.sales.SalesRecorded;
 
 /**
